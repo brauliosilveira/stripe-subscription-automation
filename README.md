@@ -58,7 +58,7 @@ This project was designed to make that handoff reliable, automated, and producti
 - Transactional email delivery through Amazon SES
 - WhatsApp messaging for payment confirmation, welcome flow, and access delivery
 - Abandoned cart recovery through email and WhatsApp automation
-- CRM-adjacent marketing automation context connected to the broader commercial stack
+- Integration into a broader commercial automation stack
 
 ## System Architecture
 
@@ -114,7 +114,7 @@ That means the integration chain is effectively:
 
 `WordPress + WooCommerce + Stripe -> webhook -> Nuxt backend -> Supabase Auth + database -> account activation`
 
-Beyond the provisioning path itself, this project also sits inside a broader revenue automation context that includes transactional email, WhatsApp messaging, and abandoned-cart recovery. Some CRM-specific orchestration flows are better represented as separate case studies, but they are part of the same commercial ecosystem.
+Beyond the provisioning path itself, this project sits inside a broader revenue automation layer that includes transactional email, WhatsApp messaging, and abandoned-cart recovery.
 
 ## Technical Flow
 
@@ -202,7 +202,7 @@ The analyzed implementation includes several production-minded safeguards:
 
 ## Why This Project Matters
 
-From a portfolio perspective, this project demonstrates:
+This project demonstrates:
 
 - full-stack thinking across marketing site, commerce, payments, and SaaS application layers;
 - checkout and post-checkout conversion thinking, not just backend implementation;
@@ -272,23 +272,20 @@ WordPress + WooCommerce + Elementor
 
 ## Demo and Media
 
-This repository is meant to be supported by screenshots and visual flow documentation.
+This case study is supported by screenshots showing the path from subscription checkout to automated SaaS account activation.
 
-Suggested examples to include:
-
-- checkout or pricing page on the website;
-- custom checkout UX;
-- payment-approved lifecycle overview;
-- automatic account provisioning proof;
-- welcome/access message screenshots;
-- abandoned-cart recovery proof;
-- app-side user activation result.
+- `Plan Selection - Choosing the Subscription Tier`
+- `Custom Checkout - Subscription Purchase Flow`
+- `Payment Approved - Successful Billing Confirmation`
+- `Automatic Account Provisioning - User Created After Payment`
+- `Activated Account - Immediate Access to the SaaS App`
+- `Post-Purchase Messaging - Access Delivery via Email and WhatsApp`
 
 ## About This Repository
 
-This repository was created to present the project as a portfolio case study for full-stack, backend, integrations, automation, and SaaS-focused roles.
+This is a public portfolio case study for full-stack, backend, integrations, automation, and SaaS-focused roles.
 
-It is public so recruiters, founders, and hiring teams can evaluate the scope and quality of the work. The complete source code, internal integrations, secrets, and infrastructure details remain private for commercial and security reasons.
+The complete source code, internal integrations, secrets, and infrastructure details remain private for commercial and security reasons.
 
 ## My Role
 

@@ -304,3 +304,8 @@ I designed and implemented the automation logic connecting payment confirmation 
 ## Contact
 
 If you would like a live walkthrough or want to discuss SaaS billing flows, webhook architecture, product automation, or full-stack roles, feel free to reach out.
+
+- Website: https://www.brauliosilveira.com
+- LinkedIn: https://linkedin.com/in/brauliosilveira
+- Email: contact@brauliosilveira.com
+- YouTube: https://youtube.com/@venderpelowhats

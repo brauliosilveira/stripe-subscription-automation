@@ -18,6 +18,7 @@ Antes de mexer neste projeto, leia:
 - O projeto pode guardar uma ficha original em `context/references/{slug}.md`, com localização da fonte, direitos de uso, síntese, análise crítica, aplicações e decisões.
 - Se a referência servir a mais de uma frente, registrar a ficha em `brain/referencias/{tema}/{slug}.md`, sem duplicá-la aqui.
 - Não copiar, reescrever capítulos, reproduzir estruturas protegidas nem usar estatísticas ou políticas sem verificar fonte primária e atualidade.
+- Ao receber uma referência, criar imediatamente as pastas externa e da ficha caso não existam e preencher `_templates/referencia/ficha.md` com fonte, direitos, síntese, análise, conceitos, aplicações, decisões, questões abertas e registros relacionados.
 
 ## Design system
 

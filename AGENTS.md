@@ -20,6 +20,12 @@ Antes de mexer neste projeto, leia:
 - Não copiar, reescrever capítulos, reproduzir estruturas protegidas nem usar estatísticas ou políticas sem verificar fonte primária e atualidade.
 - Ao receber uma referência, criar imediatamente as pastas externa e da ficha caso não existam e preencher `_templates/referencia/ficha.md` com fonte, direitos, síntese, análise, conceitos, aplicações, decisões, questões abertas e registros relacionados.
 
+## Estrutura
+
+Siga `ESTRUTURA.md` antes de criar pastas ou mover documentação. Em particular,
+`context/` contém o contexto operacional vigente; planejamento, especificações
+longas, pesquisas e histórico pertencem a `docs/`, nunca a `context/docs/`.
+
 ## Design system
 
 Antes de gerar ou alterar UI, leia:

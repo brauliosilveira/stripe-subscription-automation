@@ -14,7 +14,7 @@ Antes de mexer neste projeto, leia:
 
 ## Referências e materiais de terceiros
 
-- Materiais integrais de terceiros, inclusive arquivos `.md`, ficam em `D:\aios_files\projetos-pessoais\stripe-subscription-automation\`; nunca no Git.
+- Materiais integrais de terceiros, inclusive arquivos `.md`, ficam em `AIOS_FILES/projetos-pessoais/stripe-subscription-automation/`; nunca no Git.
 - O projeto pode guardar uma ficha original em `context/references/{slug}.md`, com localização da fonte, direitos de uso, síntese, análise crítica, aplicações e decisões.
 - Se a referência servir a mais de uma frente, registrar a ficha em `brain/referencias/{tema}/{slug}.md`, sem duplicá-la aqui.
 - Não copiar, reescrever capítulos, reproduzir estruturas protegidas nem usar estatísticas ou políticas sem verificar fonte primária e atualidade.

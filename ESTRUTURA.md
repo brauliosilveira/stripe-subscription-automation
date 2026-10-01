@@ -70,7 +70,7 @@ Código deve usar a convenção natural da stack, como `app/`, `src/`, `server/`
 `shared/`, `apps/`, `packages/`, `supabase/`, `worker/`, `scripts/` ou `tests/`.
 Builds, caches, dependências instaladas, logs e arquivos com segredos não são
 documentação nem fonte de verdade e devem ficar ignorados pelo Git. Materiais
-fonte e arquivos grandes permanecem em `D:\aios_files`.
+fonte e arquivos grandes permanecem em `AIOS_FILES`.
 
 ## Regras de mudança
 
